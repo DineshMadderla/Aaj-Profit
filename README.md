@@ -29,6 +29,7 @@ AajProfit helps small business owners (Kirana, Auto drivers, Vendors) understand
     <td width="50%" valign="top">
       <h3>3. Split Expense Tracking</h3>
       <p>Log a bulk purchase (e.g., stock for 3 days) and the app automatically divides the cost daily.</p>
+      <p>and the stock finished early or taking long time to empty no worries you can extent the days and reduce the days too.</p>
       <img src="https://github.com/user-attachments/assets/4b291d17-7544-49f0-82f7-d3a6b46afe04" width="300" />
     </td>
     <td width="50%" valign="top">
