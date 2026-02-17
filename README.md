@@ -5,7 +5,7 @@ AajProfit helps small business owners (Kirana, Auto drivers, Vendors) understand
 actually made profit today by splitting long-term expenses across days.
 
 ## 🚀 Download Beta APK
-[Download the latest APK from the Releases Page](LINK_TO_RELEASES_PAGE)
+[Download the latest APK from the Releases Page](https://github.com/DineshMadderla/Aaj-Profit/releases/tag/v1.0.0-beta)
 
 ## ✨ Key Features
 - **Split Expenses:** Buy stock for 10 days? Log it once, and the app splits the cost daily.
