@@ -27,31 +27,40 @@ AajProfit helps small business owners (Kirana, Auto drivers, Vendors) understand
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>3. Split Expense Tracking</h3>
-      <p>Log a bulk purchase (e.g., stock for 3 days) and the app automatically divides the cost daily.</p>
-      <p>and the stock finished early or taking long time to empty no worries you can extent the days and reduce the days too.</p>
-      <img src="https://github.com/user-attachments/assets/4b291d17-7544-49f0-82f7-d3a6b46afe04" width="300" />
+      <h3>3. Transaction Statistics</h3>
+      <p>A complete history of your daily transactions. Track Cash and UPI income separately in one clean view.</p>
+      <img src="https://github.com/user-attachments/assets/1998eb7f-a570-4168-959c-a9dc3097c952" width="300" />
     </td>
     <td width="50%" valign="top">
-      <h3>4. Profit Trend View</h3>
-      <p>Compare today's performance with yesterday to see your real business growth.</p>
+      <h3>4. Split Expense Tracking</h3>
+      <p>Log bulk purchases (e.g., stock for 3 days) and the app automatically divides the cost daily for honest profit tracking.</p>
+      <p>Finished the stock early ? or the stock is taking long to sell no worries by using this you can extend and reduce the days and the expense,income and profit recalculation will be done accordingly.</p>
+      <img src="https://github.com/user-attachments/assets/4b291d17-7544-49f0-82f7-d3a6b46afe04" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>5. Profit Trend View</h3>
+      <p>Compare today's performance with yesterday to see if your business is actually growing or losing money.</p>
       <img src="https://github.com/user-attachments/assets/dc3a18ab-c649-4f76-a2ff-63e03a870371" width="300" />
     </td>
+    <td></td>
   </tr>
 </table>
 
 ---
 
 ## 🔒 Security & Data Privacy
-- **Firebase Security Rules:** Your data is protected by secure rules. Only you can access your own financial records.
-- **Data Isolation:** Every transaction is scoped to your unique User ID.
-- **Production Ready:** Recently audited to ensure no cross-user data leakage.
+* **Firebase Security Rules:** Your data is protected by strict server-side rules. Only you can access your own financial records.
+* **Data Isolation:** Every transaction and wallet is locked to your unique User ID.
+* **Production Ready:** Recently audited to ensure no cross-user data leakage.
 
 ---
 
 ## ⚠️ Important Note for Beta Testers
-Since this is a direct APK download, Android will show a **"Play Protect"** warning. This is standard for apps not yet on the Play Store. 
-1. Click **"Install Anyway"** to proceed.
-2. Rest assured, your data is safe and isolated.
+Since this is a direct APK download, Android will show a **"Play Protect"** warning. This is standard for apps not yet published on the Play Store. 
+
+1.  Click **"Install Anyway"** to proceed.
+2.  Rest assured, your data is safe, private, and isolated.
 
 ---
