@@ -1,2 +1,2 @@
 # Aaj-Profit
-know your REAL profit 
+Real Daily Profit tracker for Indian small businesses.
