@@ -1,7 +1,7 @@
 # AajProfit – See Your Real Daily Profit 📈
 **Real Daily Profit tracker for Indian small businesses.**
 
-AajProfit helps small business owners (Kirana, Auto drivers, Vendors) understand if they actually made profit today by splitting long-term expenses across days.
+AajProfit helps small business owners (Kirana, Auto drivers, Vendors or any business who spends first and earns in chunks throughout the day) understand if they actually made profit today by splitting long-term expenses across days.
 
 ---
 
@@ -22,6 +22,7 @@ AajProfit helps small business owners (Kirana, Auto drivers, Vendors) understand
     <td width="50%" valign="top">
       <h3>2. One-Tap Voice Entry</h3>
       <p>Designed for busy markets. Just tap and say <i>"Income 500 cash"</i> to log sales instantly.</p>
+      <p>supports English, Telugu and Hindi for now.</p>
       <img src="https://github.com/user-attachments/assets/726c39f2-80fc-4a20-af25-c46ed99cdf7e" width="300" />
     </td>
   </tr>
@@ -34,7 +35,7 @@ AajProfit helps small business owners (Kirana, Auto drivers, Vendors) understand
     <td width="50%" valign="top">
       <h3>4. Split Expense Tracking</h3>
       <p>Log bulk purchases (e.g., stock for 3 days) and the app automatically divides the cost daily for honest profit tracking.</p>
-      <p>Finished the stock early ? or the stock is taking long to sell no worries by using this you can extend and reduce the days and the expense,income and profit recalculation will be done accordingly.</p>
+      <p>Finished the stock early ? or the stock is taking long to sell no worries by using this you can extend and reduce the days and the expense,income and profit history updates automatically when reality changes.</p>
       <img src="https://github.com/user-attachments/assets/4b291d17-7544-49f0-82f7-d3a6b46afe04" width="300" />
     </td>
   </tr>
